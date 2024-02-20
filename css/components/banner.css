@@ -1,0 +1,11 @@
+.banner {
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.banner .container h1, .banner .container p, a {
+  color: white;
+}

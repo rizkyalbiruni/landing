@@ -1,0 +1,18 @@
+.footer {
+  background-color: grey;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.icons a {
+  font-size: 50px;
+}
+
+#footer-text {
+  text-align: center;
+}
